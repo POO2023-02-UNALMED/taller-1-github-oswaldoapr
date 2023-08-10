@@ -1,3 +1,6 @@
+
 David Esteban Martin Acosta
 20
 Aprender el paradigma de programaciòn orientada a objetos 
+
+Se pudo hacer commit ya que la carpeta no esta vacia 
